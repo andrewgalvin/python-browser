@@ -1,9 +1,7 @@
 import sys
-import random
 from datetime import datetime
 from urllib.parse import urlparse
-from PyQt5.QtCore import Qt
-from PyQt5.QtCore import Qt, QUrl, QTimer
+from PyQt5.QtCore import Qt, QUrl
 from PyQt5.QtGui import QIcon, QPixmap
 from PyQt5.QtNetwork import QNetworkProxy
 from PyQt5.QtWebEngineWidgets import (
